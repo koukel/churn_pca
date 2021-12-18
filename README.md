@@ -4,7 +4,7 @@
 
 This project is based on a project from my graduate program and altered in order to add to my public portfolio.  This serves as an early example of my abilities as a reference to see how I have grown as a data scientist.  The data used in this dataset is available in this repository. 
 
-In this project I have perfomed a PCA in order to predict customer churn.
+In this project I have perfomed a PCA to determine the primary components that may lead to customer churn.
 
 ## Necessary Software
 
